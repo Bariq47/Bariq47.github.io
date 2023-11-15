@@ -24,7 +24,7 @@ body {
     height: auto;
 }
 .gitar-item {
-    width: 40%;
+    width: 0%;
     height: 20%;
     position: absolute;
     z-index: 2;
