@@ -159,3 +159,18 @@ td {
     font-weight: lighter;
     padding: 1px 10px;
 }
+
+@media (max-width: 768px) {
+    .gitar-item {
+        width: 80%; 
+        right: 10%; 
+    }
+
+    th {
+        font-size: 20px; 
+    }
+
+    td {
+        font-size: 15px; /
+    }
+}

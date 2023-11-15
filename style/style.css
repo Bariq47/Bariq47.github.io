@@ -67,3 +67,15 @@ body{
     opacity: 0.7;
 
 }
+
+@media (max-width: 768px) {
+    .button,
+    .text .button {
+        width: 30%; /* Adjust width for smaller screens */
+    }
+
+    .text h1,
+    .text p {
+        font-size: 3vw; /* Adjust font size for smaller screens */
+    }
+}

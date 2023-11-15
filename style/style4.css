@@ -105,3 +105,18 @@ body {
     
 }
 
+@media (max-width: 768px) {
+    .gitar-item {
+        width: 80%; 
+    }
+
+    .button {
+        left: 5%; 
+        font-size: 20px; 
+    }
+
+    .box {
+        width: 30%; 
+        bottom: 20%; 
+    }
+}
