@@ -1,0 +1,75 @@
+* {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(35deg, rgb(27, 26, 56)0%, rgba(42, 55, 64, 1) 100%, rgba(0, 212, 255, 1) 100%);
+    overflow: hidden;
+}
+.container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px; /* Sesuaikan tinggi container dengan tinggi .persegi */
+    background-color: rgba(255, 255, 255, 0.7); /* Warna latar belakang container */
+    z-index: 1; /* Menempatkan container di bawah .persegi */
+}
+
+
+.gitar-item {
+    width: 40%;
+    height: 20%;
+    position: absolute;
+    z-index: 2;
+}
+
+#gitar1 {
+    top: 25%;
+    left: 10%;
+    width: 40%;
+    height: 20%;
+}
+
+#gitar2 {
+    top: 25%;
+    right: 0%;
+    width: 40%;
+    height: 20%;
+}
+
+#gitar3 {
+    bottom: 15%;
+    left: 10%;
+    width: 40%;
+    height: 20%;
+}
+
+#gitar4 {
+    bottom: 15%;
+    right: 0%;
+    width: 40%;
+    height: 20%;
+}
+
+.button {
+    top: 100%;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    left: 25%;
+    font-size: 30px;
+    transition: color 0.3s;
+    
+}
+
+
+.button:hover {
+    color: rgb(0, 0, 0);
+    
+   
+}
+

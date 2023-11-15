@@ -1,0 +1,161 @@
+* {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(35deg, rgb(27, 26, 56)0%, rgba(42, 55, 64, 1) 100%, rgba(0, 212, 255, 1) 100%);
+}
+
+.gitar {
+    position: relative;
+    width: 40%;
+    height: 20%;
+    z-index: 2;
+}
+
+#M80M {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#RG5328 {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#APEX30 {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#RGIXL7 {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#KH-2-VINTAGE {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#E-11 {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#LTD {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#ARROW {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#joe {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#CM {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#FR {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#DK22 {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#c-8 {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#c-8multi {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#damien {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+#Hellraiser {
+    top: 15%;
+    right: 28%;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+}
+
+
+th {
+    text-align: left;
+    color: black;
+    font-size: 30px;
+    opacity: 0.6;
+
+
+}
+
+td {
+    color: white;
+    font-weight: lighter;
+    padding: 1px 10px;
+}
