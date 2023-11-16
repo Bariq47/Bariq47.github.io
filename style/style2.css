@@ -8,15 +8,15 @@
     color: white;
     font-style: italic;
     font-weight: lighter;
-    top: 25%;
-    left: 23%;
-    font-size: 45px;
+    top: 30%;
+    left: 28%;
+    font-size: 50px;
     position: absolute;
 }
 
 .image1 {
     bottom: 50%;
-    left: 19%;
+    left: 15%;
     width: 100px;
     height: 40px;
     position: absolute;
@@ -25,7 +25,7 @@
 
 .image2 {
     bottom: 50%;
-    left: 35%;
+    left: 33%;
     width: 100px;
     height: 40px;
     position: absolute;
@@ -43,7 +43,7 @@
 
 .image4 {
     bottom: 50%;
-    right: 23%;
+    right: 24%;
     width: 100px;
     height: 40px;
     position: absolute;
