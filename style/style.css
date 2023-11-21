@@ -8,7 +8,25 @@ body{
     position: fixed;
     width: 100%;
 }
+.as {
+    position: absolute;
+    top: 0;
+    left: 1%;
+    height: 7%;
+}
+.as p{
+    font-size: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+.as a {
+    text-decoration: none;
+    color: black;
+}
 
+.as p:hover{
+    color: white;
+}
 .background img {
 
     height: 100%;
